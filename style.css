@@ -6,4 +6,15 @@
   outline: none;
 }
 
+.text {
+  font-family: Georgia, Times, "Times New Roman", serif;
 
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-variant: small-caps;
+  transform: translate(-50%, -50%);
+  color: rgba(240, 240, 255, 0.2);
+  font-size: 16px;
+  background-color: transparent;
+}
