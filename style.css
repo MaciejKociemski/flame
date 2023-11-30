@@ -29,7 +29,7 @@ canvas {
   left: 50%;
   font-variant: small-caps;
   transform: translate(-50%, -50%);
-  color: rgba(240, 240, 255, 0.2);
+  color: rgba(240, 240, 255, 0.9);
   font-size: 16px;
   background-color: transparent;
 }
